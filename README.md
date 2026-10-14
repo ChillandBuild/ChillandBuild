@@ -6,10 +6,12 @@ I work on Python applications that connect AI models, APIs, and useful interface
 
 ## Experience
 
-- **Bloom Matrix - AI Engineer Intern:** contributing to Python backend workflows, prompts, evaluations, testing, and deployment.
+- **Bloom Matrix - AI Engineer Intern:** co-built **Anril AI** from scratch with my teammate **Keerthi**, working across Python backend workflows, prompts, evaluations, testing, and deployment. Anril supports AI conversations for business messaging and lead workflows.
 - **Techspire Solutions - AI Intern:** worked on Damage AI and the Uni-fied ERP system.
 
-Company work is credited to the respective employers. The links below highlight my public project and research work.
+At Anril, my work includes conversation evaluations combining deterministic checks with LLM-as-judge scoring, pytest cases for malformed judge outputs and model failures, asynchronous scenario execution, and provider-reported token metering.
+
+Company work is credited to the respective employers. Anril's source code is excluded from this portfolio; the links below highlight my public project and research work.
 
 ## Selected public work
 
